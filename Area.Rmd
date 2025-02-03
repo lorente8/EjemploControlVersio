@@ -28,5 +28,11 @@ altura <- 5
 areatriangulo<- (base * altura)/2
 ```
 
+#area rectangulo
+```{r}
+base <- 3
+altura <- 5
+areatriangulo<- (base * altura)
+```
 
 
