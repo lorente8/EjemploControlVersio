@@ -20,3 +20,13 @@ area <- pi *r^2
 lado <- 3
 areacuadrado- lado^2
 ```
+
+#area triangulo
+```{r}
+base <- 3
+altura <- 5
+areatriangulo<- (base * altura)/2
+```
+
+
+
