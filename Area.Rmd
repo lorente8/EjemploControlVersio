@@ -35,4 +35,11 @@ altura <- 5
 areatriangulo<- (base * altura)
 ```
 
+#area trapecio
+```{r}
+B <-12
+b<- 5
+H <- 4
+areatrapecio <- ((B + b) * H) / 2
+```
 
